@@ -1,0 +1,5 @@
+{
+  "name": "Aura Vinyl",
+  "description": "A modern, AI-adaptive vinyl player experience for your local audio files.",
+  "requestFramePermissions": []
+}
